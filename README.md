@@ -1,5 +1,5 @@
 # NativeMaskTest
-Testbed for a unexpected behavior with masks on cpp target (windows)
+Testbed for a unexpected behavior with masks on native/GL targets (windows, webgl, android)
 
 This example works correctly in flash and html5, but on windows there is an issue with the masks.
 The inner masks is also masking the elements in front of it.
